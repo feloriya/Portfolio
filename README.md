@@ -1,7 +1,7 @@
 # 🌟 Fariba's Developer Portfolio
 
 <div align="center">
-  <img src="/assets/banner.png" alt="Fariba's Banner" width="100%">
+  <img src="assets/Banner.png" alt="Fariba's Banner" width="100%">
 </div>
 
 ## 👋 About Me
