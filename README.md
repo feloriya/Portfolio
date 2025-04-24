@@ -1,6 +1,8 @@
 # 🌟 Fariba's Developer Portfolio
 
-![My Banner](/assets/banner.png)
+<div align="center">
+  <img src="/assets/banner.png" alt="Fariba's Banner" width="100%">
+</div>
 
 ## 👋 About Me
 I'm Fariba, a web developer transitioning into AI/ML. With a strong foundation in front-end development and a passion for problem-solving, I'm currently expanding my skills through:
