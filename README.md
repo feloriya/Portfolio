@@ -40,6 +40,10 @@ My solutions to Harvard's CS50 course problems, demonstrating:
 - Machine learning fundamentals
 - JavaScript frameworks (React)
 
+## 🚀 Projects
+- [Web Design Projects](/projects/web-design)
+- [Python Scripts](/projects/python)
+
 ## 📬 Let's Connect
 I'm actively looking for opportunities in web development and AI. Reach out to collaborate or discuss ideas!
 
