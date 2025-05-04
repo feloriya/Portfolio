@@ -44,6 +44,7 @@ My solutions to Harvard's CS50 course problems, demonstrating:
 - [Web Design Projects](/projects/web-design)
 - [Python](/projects/python)
 
+
 ## 📬 Let's Connect
 I'm actively looking for opportunities in web development and AI. Reach out to collaborate or discuss ideas!
 
